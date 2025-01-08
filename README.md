@@ -2,6 +2,10 @@
 
 This project is the frontend for a motorcycle classification model. The model is designed to classify different types of motorcycles based on images. The frontend provides an interface for users to upload images and view the classification results.
 
+The project is hosted on GitHub Pages and can be accessed using the following link:
+
+[Motorcycle Classifier Frontend](https://yorgotabet.github.io/motorcycle-classifier/)
+
 ## Features
 
 - Upload motorcycle images
